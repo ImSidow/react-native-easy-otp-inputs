@@ -1,0 +1,41 @@
+{
+    "name": "react-native-easy-otp-inputs",
+    "version": "1.0.0",
+    "description": "an otp inputs for react native",
+    "main": "OTPInputs.tsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ImSidow/react-native-OTPInputs.git"
+    },
+    "keywords": [
+        "otp",
+        "react-native",
+        "otp",
+        "expo",
+        "otp",
+        "otp-inputs-react-native"
+    ],
+    "author": "Asad Ali Sidow",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ImSidow/react-native-OTPInputs/issues"
+    },
+    "homepage": "https://github.com/ImSidow/react-native-OTPInputs#readme",
+    "dependencies": {
+        "expo": "~46.0.7",
+        "expo-status-bar": "~1.4.0",
+        "react": "18.0.0",
+        "react-dom": "18.0.0",
+        "react-native": "0.69.4",
+        "react-native-web": "~0.18.7"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.9",
+        "@types/react": "~18.0.14",
+        "@types/react-native": "~0.69.1",
+        "typescript": "~4.3.5"
+    }
+}
