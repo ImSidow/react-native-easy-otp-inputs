@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ImSidow/react-native-OTPInputs.git"
+        "url": "git+https://github.com/ImSidow/react-native-easy-otp-inputs.git"
     },
     "keywords": [
         "otp",
@@ -21,9 +21,9 @@
     "author": "Asad Ali Sidow",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ImSidow/react-native-OTPInputs/issues"
+        "url": "https://github.com/ImSidow/react-native-easy-otp-inputs.git/issues"
     },
-    "homepage": "https://github.com/ImSidow/react-native-OTPInputs#readme",
+    "homepage": "https://github.com/ImSidow/react-native-easy-otp-inputs.git#readme",
     "dependencies": {
         "expo": "~46.0.7",
         "expo-status-bar": "~1.4.0",
